@@ -24,7 +24,7 @@ module.exports = function(grunt) {
 		 * Set project object
 		 */
 		project: {
-		  app: 'c:/Front-End/fucking-awesome',
+		  app: 'c:/Front-End/FuckingAwesome',
 		  assets: '<%= project.app %>/assets',
 		  css: [
 		    '<%= project.app %>/sass/style.scss'

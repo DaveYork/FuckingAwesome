@@ -7,6 +7,10 @@
  * Copyright . BSD-2-Clause licensed.
  */
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   color: green;
   font-size: 13px;
