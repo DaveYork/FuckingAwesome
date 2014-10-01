@@ -1,2 +1,4 @@
 FuckingAwesome
 ==============
+
+This project rocks!
