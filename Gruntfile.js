@@ -1,5 +1,5 @@
 /*!
- * Fucking Awsome GruntFile
+ * Fucking Awesome GruntFile
  * @author David York, Andrew Acree
  */
  
